@@ -1,6 +1,6 @@
 # coding: utf-8
 #trabalho da matéria de LP - fazer um sistema bancario com orientação a objetos
-#sistemaBancario 1.0-2 
+#sistemaBancario 1.0-3 
 #implementar o uso do limite de crédito nas contas
 #Os coxinhas: Cassius🤡, Larissa😎 e Robson🙃
 
