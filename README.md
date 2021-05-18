@@ -16,4 +16,4 @@ Ao longo dessa disciplina iremos criar um sistema gerenciador bancário. Esse si
 
 Por enquanto, **não** é preciso armazenar em banco de dados. Usem os modificadores de acesso adequadamente.
 
-### *A conclusão dessa etapa resultou na versão 1.0.3 do nosso programa.*
+### *A conclusão dessa etapa resultou na versão 1.3 do nosso programa.*
