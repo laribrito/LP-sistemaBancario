@@ -1,5 +1,6 @@
 # LP-sistemaBancario
 Trabalho da matéria de linguagem de programação 2, ensino médio/técnico
+**Participantes:** Cassius Paulo, Robson Tiago e eu, que posto esse repositório
 Orientação a objetos em Python
 
 ## As primeiras determinações do professor foram, no dia 15 de maio de 2021:
